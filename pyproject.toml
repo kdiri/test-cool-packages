@@ -10,6 +10,7 @@ ipykernel = "5.5.3"
 jupyterlab = "3.0.14"
 pandas = "1.2.4"
 drawdata = "^0.2.0"
+matplotlib = "^3.4.1"
 
 [tool.poetry.dev-dependencies]
 
