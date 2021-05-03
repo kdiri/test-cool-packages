@@ -11,7 +11,7 @@ jupyterlab = "3.0.14"
 pandas = "1.2.4"
 drawdata = "^0.2.0"
 matplotlib = "^3.4.1"
-lux = "^0.8.2"
+lux-api = "^0.3.0"
 
 [tool.poetry.dev-dependencies]
 

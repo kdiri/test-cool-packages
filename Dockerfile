@@ -11,5 +11,7 @@ RUN poetry config virtualenvs.create false
 RUN poetry install --no-interaction
 
 COPY . /app
-RUN python -m ipykernel install --user --name=.venv
+RUN python -m ipykernel install --user --name=.venv \
+    jupyter nbextension install --py luxwidget \
+    jupyter nbextension enable --py luxwidget
 CMD ["jupyter", "notebook", "--port=8890", "&"]
