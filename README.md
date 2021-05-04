@@ -13,4 +13,5 @@ The goal of this repository is to test some cool python packages that are listed
 
 # Machine Learning
 * https://github.com/comet-ml
+* https://github.com/Qiskit/qiskit-terra
 * To be continued

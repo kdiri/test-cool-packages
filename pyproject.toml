@@ -8,10 +8,11 @@ authors = ["Kemal Diri <kemaldiri@gmail.com>"]
 python = "^3.8"
 ipykernel = "5.5.3"
 jupyterlab = "3.0.14"
-pandas = "1.2.4"
+pandas = "1.2.3"
 drawdata = "^0.2.0"
 matplotlib = "^3.4.1"
 lux-api = "^0.3.0"
+qiskit = "^0.25.3"
 
 [tool.poetry.dev-dependencies]
 
