@@ -5,6 +5,9 @@ The goal of this repository is to test some cool python packages that are listed
 * [Data](#Data)
 * [Machine Learning](#Machine-Learning)
 
+# DB - API
+* https://github.com/roman-right/beanie
+
 # Data
 * https://github.com/koaning/drawdata
 * https://github.com/apache/superset : Forked to https://github.com/kdiri/superset and added in this repository also to being able to execute docker files.

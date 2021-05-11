@@ -13,6 +13,7 @@ drawdata = "^0.2.0"
 matplotlib = "^3.4.1"
 lux-api = "^0.3.0"
 qiskit = "^0.25.3"
+beanie = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
