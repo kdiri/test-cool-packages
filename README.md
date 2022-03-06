@@ -13,6 +13,7 @@ The goal of this repository is to test some cool python packages that are listed
 * https://github.com/apache/superset : Forked to https://github.com/kdiri/superset and added in this repository also to being able to execute docker files.
 * https://github.com/lux-org/lux
 * https://github.com/great-expectations/great_expectations
+* Apache Beam: https://beam.apache.org
 * To be continued
 
 # Machine Learning
